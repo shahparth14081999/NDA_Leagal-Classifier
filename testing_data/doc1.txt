@@ -1,0 +1,185 @@
+EXHIBIT 10.41
+ 
+ 
+ 
+Non-Disclosure Agreement
+ 
+This Non-Disclosure Agreement (this “Agreement”) is made and entered into as of August 1, 2013 (the “Effective Date”) by and between Touchpoint Metrics, Inc.  (“Touchpoint Metrics”), a California corporation with a principal address of 201 Spear Street, Suite 1100, San Francisco, California, 94105, and Ashley Garnot an individual with a principal address of 545 Granada Cresent, North Vancouver, BC, Canada V7N3A7 (“Consultant”).  Touchpoint Metrics and Consultant may be referred to herein individually as a “Party” and collectively as the “Parties”.
+ 
+WHEREAS, Touchpoint Metrics and Consultant desire to enter into a mutually beneficial business relationship pursuant to which Touchpoint Metrics may engage Consultant, as an independent contractor, to perform certain services requested by Touchpoint Metrics from time to time, including services as part of or in connection with services that Touchpoint Metrics has agreed to provide to one or more of its Clients (the “Relationship”);
+ 
+WHEREAS, during the course of discussions between Touchpoint Metrics and Consultant regarding the Relationship (the “Discussions”), and during the Relationship, Consultant will occupy a position of trust and confidence due to the Discussions and the Relationship, and Consultant will have access to Proprietary Information or may develop or work on the development of Proprietary Information;
+ 
+WHEREAS, the success of the business Touchpoint Metrics and its Affiliates (individually and collectively, “Company”) depends upon safeguarding all Company Proprietary Information; and
+ 
+WHEREAS, Touchpoint Metrics would not enter into the Discussions or the Relationship without Consultant’s commitment to the agreements and covenants contained in this Agreement.
+ 
+NOW, THEREFORE, as a condition of, as a material inducement for, and in consideration of, the Discussions and the Relationship, and, additionally, in consideration of Consultant’s access to trade secrets, proprietary information, and other confidential information and client relationships, and Consultant’s receipt of compensation hereafter paid to Consultant in connection with the Relationship, the recitals, agreements, and covenants contained in this Agreement, and other good and valuable consideration the receipt and sufficiency of which Touchpoint Metrics and Consultant acknowledge, and in recognition of Consultant’s position of trust and confidence due to the Discussions and the Relationship, Touchpoint Metrics and Consultant agree as follows:
+ 
+1. Definitions.
+ 
+Except as otherwise indicated above, capitalized terms used in this Agreement shall have the following definitions:
+ 
+1.1. “Affiliate” means, with respect to any Person, any Person that, directly or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with, such person or entity; and the term “control” and its derivatives means, with respect to any person or entity, the power to direct or cause the direction of management or policies of such person or entity, whether through the ownership of voting securities, by contract, or otherwise.
+ 
+1.2. “Client” means any Person to whom or for whom Company markets, sells, performs, provides services, or otherwise does business during the Discussions or the Relationship or within two (2) years following the expiration or termination of the Relationship.
+ 
+1.3. “Intellectual Property” means all Inventions (whether or not patentable), Trade Secrets, works of authorship (whether or not copyrightable) and other works, patents, copyrights, trademarks, trade names, know-how, and ideas or concepts, and all improvements, modifications, and additions to any of the foregoing.
+ 
+1.4. “Introduced Client” means any Client or Client contacts on whom Consultant calls, with whom Consultant contacts or becomes acquainted, or of whom Consultant learns during the Discussions or the Relationship.
+ 
+ 
+Touchpoint Metrics Proprietary and Confidential
+Rev. 042012
+
+ 
+
+Page1of 5
+________________________________________
+ 
+ 
+ 
+ 
+ 
+1.5. “Inventions” means all new discoveries, innovations, programs, machines, methods, processes, uses, compositions of matter, apparatuses, and data or designs, and all improvements, modifications, and additions to any of the foregoing, and is not limited to the definition contained in the U.S. patent laws.
+ 
+1.6. “Person” means any individual or any firm, partnership, corporation, company, trust, or other association or entity.
+ 
+1.7. “Proprietary Information” means all information treated and/or maintained by Company or any other Person as confidential and proprietary, whether oral or written or in tangible or intangible form, and whether or not it is designated or otherwise marked as confidential or proprietary, including Intellectual Property and other property rights, as well as business, financial, or technical information, such as (but not limited to) information related to Company’s present and future methodologies; business, development, research, and marketing plans, concepts, and results; strategies; products and services; financial information; customers, customer lists, and customer relationships; suppliers; employees; pricing; volume estimates; market testing; specifications; configurations; designs; drawings; apparatuses; sketches; software; hardware; other data and information; and any and all other confidential or proprietary business information and interests protectable under applicable law.
+ 
+1.8. “Company Proprietary Information” means the Proprietary Information of Company, Clients, and any of their respective Affiliates and Suppliers.
+ 
+1.9. “Supplier” means any Person who is a vendor, contractor, or licensor.
+ 
+1.10. “Trade Secrets” means all concepts, information, data, ideas, formulae, patterns, devices, unpatented Inventions, or compilations of information or data used in Company’s business that:   (i) relate to the development, production, sale, or licensing of Company’s goods, products, customers, contracts, or services; (ii) relate to the administration, business plans, or finances of Company, or (iii) otherwise give Company a competitive advantage; and that are not generally known to, lawfully possessed by, and/or readily ascertainable by others who have no obligation to maintain its confidentiality.
+ 
+2. Confidentiality.
+ 
+2.1. Ownership; Nondisclosure.  Consultant agrees that Consultant’s relationship with Company does not vest in Consultant any interest in any Company Proprietary Information, other than the right to use Company Proprietary Information in the regular course of the Discussions or as necessary to perform Consultant’s duties and obligations under any written agreement with Company relating to the Relationship in accordance with the terms and conditions of such agreement, and that the use or duplication of Company Proprietary Information in any other business or for any other purpose would constitute an unfair method of competition.  Consultant acknowledges and agrees that all Company Proprietary Information, regardless of whether or when created or received by Consultant, belongs to Company, a Client, or any of their respective Affiliates or Suppliers, may contain trade secrets belonging to Company, a Client, or any of their respective Affiliates or Suppliers, and is disclosed to Consultant or authorized for Consultant’s use solely on the condition that Consultant agree, and Consultant hereby does agree, that Consultant:  (i) will not use Company Proprietary Information, directly or indirectly, in any other business or capacity or for Consultant’s own or any other Person’s benefit or purpose, except as permitted by this Agreement or as authorized in writing by Company; (ii) will maintain the absolute confidentiality of Company Proprietary Information during and after the term of the Discussions, the Relationship, and at any later time; (iii) will not make unauthorized copies of any portion of Company Proprietary Information disclosed in written form or any other form that may be copied or duplicated; and (iv) will adopt and implement all reasonable procedures that either Company or any Client may prescribe from time to time to prevent unauthorized use or disclosure of Company Proprietary Information, including restrictions on disclosure to Company employees or Suppliers, and the use of non-disclosure and non-competition agreements that Company or any Client may prescribe or approve for Consultant’s shareholders, partners, members, officers, managers, directors, employees, independent contractors, agents, or representatives who may have access to Company Proprietary Information.
+ 
+ 
+Touchpoint Metrics Proprietary and Confidential
+Rev. 042012
+
+ 
+
+Page2of 5
+________________________________________
+ 
+ 
+ 
+ 
+ 
+2.2. Third Parties’ Rights.  Consultant agrees not to use or disclose to Company or induce or cause Company to use any Proprietary Information belonging to any Person without the prior written consent of that Person.  If Consultant uses Consultant’s own Inventions, Trade Secrets, or other Proprietary Information, by doing so, Consultant automatically confers on Company the unrestricted right to use freely all of those matters used.
+ 
+2.3. Use And Return. Consultant agrees that all Company Proprietary Information and all other information, documents, and things (such as, but not limited to, programs, software, files, documentation, reports, lists, computers, peripherals, books, manuals, supplies, equipment, e-mail messages, and voice mail messages) that Consultant make or that come into Consultant’s possession by reason of the Discussions or the Relationship are the property of Company, a Client, or their respective Affiliates or Suppliers (and are not Consultant’s property).  Consultant agrees that Consultant will not use them in any way except in the regular course of the Discussions or as necessary to perform Consultant’s duties and obligations under any written agreement with Company relating to the Relationship in accordance with the terms and conditions of such agreement, and Consultant agrees that Consultant will return them to Company promptly upon request of Company.  Consultant agrees that Consultant will not take, reproduce, or retain originals of any Company Proprietary Information or any information, documents, or things of Company, any Client, or any of their respective Affiliates without the express written permission of Company.
+ 
+2.4. Unauthorized Disclosure.  Consultant shall notify Company immediately upon the discovery of any unauthorized use or disclosure of any Company Proprietary Information, and will cooperate with Company in every reasonable way to assist Company in regaining possession of the Proprietary Information and in preventing its further unauthorized use or disclosure.
+ 
+2.5. Compelled Disclosure.  If Consultant is required to disclose any Company Proprietary Information by order of a court or other legal authority, or by operation of law, Consultant will give Company prompt written notice thereof, and will consult and cooperate with Company and provide reasonable assistance as requested by Company in its efforts to prevent or narrow the disclosure or to obtain a protective order, decree, or other reliable assurance that confidential treatment will be accorded the information disclosed.  To the fullest extent permitted by law Consultant will continue to protect as confidential and proprietary under this Agreement all Proprietary Information disclosed in response to a court order, subpoena, regulation, or other process of law.
+ 
+2.6. No Expectation of Privacy.  Consultant agrees that Consultant has no expectation of privacy with respect to Company’s telecommunications, software, networking, or information processing systems (including computer files, e-mails, and voice mail messages), and that Consultant’s activity and any files and messages on or using any of these systems may be monitored at any time without notice.
+ 
+2.7. Additional Obligations. Consultant acknowledges that Company may, from time to time, enter into or renew agreements with other Persons, including federal, state, and local governments or agencies thereof, related to the Relationship that impose certain obligations or restrictions on Company regarding Proprietary Information or other information identified in those agreements.  Consultant agrees to be bound by all such obligations and restrictions and to take all action necessary to honor the obligations of Company thereunder, including signing such confidentiality, non-disclosure, and other agreements as may be required by other Persons or third parties as a condition to Company obtaining or using Proprietary Information or other information identified in those agreements.  Consultant further acknowledges that in connection with the Discussions or the Relationship, Consultant may come into possession or knowledge of the Proprietary Information of another Person in the absence of any agreement with that Person regarding such information, and Consultant agree that in such event Consultant will protect and maintain the confidentiality of such Proprietary Information to the same extent as Consultant is obligated to protect and maintain the confidentiality of Company Proprietary Information under this Agreement and subject to the same restrictions on disclosure and use of Company Proprietary Information set forth in this Agreement.
+ 
+2.8. Competitive Use. Consultant agrees not to use any Company Proprietary Information or any other property of Company, any Client, or any of their respective Affiliates or Suppliers to compete with Company, either directly or indirectly, in any manner, during or after the Discussions or the Relationship at any time.
+ 
+ 
+Touchpoint Metrics Proprietary and Confidential
+Rev. 042012
+
+ 
+
+Page3of 5
+________________________________________
+ 
+ 
+ 
+ 
+ 
+3. Disclaimer.  PROPRIETARY INFORMATION IS PROVIDED OR OTHERWISE MADE AVAILABLE BY COMPANY HEREUNDER "AS IS", AND COMPANY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS, IMPLIED, OR OTHERWISE, REGARDING THE ACCURACY OR COMPLETENESS OF ANY PROPRIETARY INFORMATION.  NEITHER COMPANY NOR ANY OF ITS AFFILATES, SUPPLIERS, OR CLIENTS SHALL BE LIABLE OR RESPONSIBLE FOR ANY ERRORS OR OMISSIONS IN, OR ANY DECISIONS MADE BY YOU IN RELIANCE ON, ANY PROPRIETARY INFORMATION DISCLOSED OR OTHERWISE MADE AVAILABLE UNDER OR IN CONNECTION WITH THIS AGREEMENT.
+ 
+4. Survival.  The provisions of this Agreement will survive any termination of the Discussions or the Relationship for any reason, regardless of the reason or reasons for termination, and whether such termination is voluntary or involuntary on Consultant’s part.  Consultant agrees to allow Company to communicate Consultant’s obligations under this Agreement to any third party.
+ 
+5. Assignment; Succession.  This Agreement shall not be assignable by Consultant, and any attempt by Consultant to assign this Agreement in whole or in part shall be void and of no force or effect.   This Agreement may be assigned by Company without any restriction of any kind.  The provisions of this Agreement inure to the benefit of, and are binding upon, Consultant’s heirs, representatives, executors, successors, assigns, and administrators, and shall inure to the benefit of Company and its representatives, successors, and assigns.
+ 
+6. Governing Law; Jurisdiction and Venue.  This Agreement shall be governed by and construed in accordance with the laws of the State of California without reference to the conflict of law provisions thereof.  The Parties consent and submit to the exclusive jurisdiction and venue of the state courts located in Marin County, California and the federal courts located in San Francisco County, California for any dispute relating to the terms, interpretation, or performance of this Agreement.
+ 
+7. Waiver or Modification.   No waiver or modification of this Agreement or of any covenant, condition, or limitation contained herein shall be valid unless in writing and duly executed by the Party to be bound thereby.  Furthermore, no evidence of any modification or waiver shall be offered or received as evidence in any proceeding, arbitration, or litigation between the parties arising out of or affecting this Agreement or the rights or obligations of any Party hereunder, unless such waiver or modification is in writing, duly executed as aforesaid.  The provisions of this Section may not be waived except as set forth herein.  No failure of any Party to exercise any power given such Party hereunder or to insist upon strict compliance by any Party with its obligations hereunder, and no custom or practice of the parties in variance with the terms hereof, shall constitute a waiver of any Party’s right to demand exact compliance with the terms hereof.
+ 
+8. Severability. If any provision of this Agreement is found to be unenforceable by a court of competent jurisdiction, the remainder will be enforced as fully as possible, and the court shall have the power to modify the provision to the extent required to permit its enforcement in a manner most closely representing the intention of the Parties as expressed herein.
+ 
+9.  Interpretation; Headings.  This Agreement was the joint, negotiated product of the Parties. Therefore, neither Party shall advance a position that any provision hereof should be more strictly construed against the other Party on the basis that such other Party prepared such provision.  As used in this Agreement, the term “including” shall mean “including, without limitation”, and the term “includes” shall mean “includes, without limitation”.  The section headings contained in this Agreement are inserted for convenience only and shall not affect in any way the interpretation of this Agreement.  Recitals are incorporated into this Agreement in their entirety by this reference.
+ 
+10. Remedies; Cumulative Rights.   Consultant acknowledges and agrees that any actual or threatened breach of this Agreement will cause irreparable harm to Company for which damages would not be an adequate remedy, and, therefore, Company will be entitled to temporary and permanent injunctive relief with respect thereto in addition to any other remedies, including monetary damages and/or punitive damages.  If any action is brought to enforce any provision of this Agreement, the prevailing Party shall be entitled to recover reasonable costs and attorneys’ fees.  Unless otherwise provided herein, all rights, powers, privileges, and remedies conferred upon the Parties by law, this Agreement, or otherwise shall be cumulative.
+ 
+ 
+Touchpoint Metrics Proprietary and Confidential
+Rev. 042012
+
+ 
+
+Page4of 5
+________________________________________
+ 
+ 
+ 
+ 
+ 
+11. Complete Agreement.  This Agreement represents the entire agreement between the Parties regarding its subject matter, and supersedes all prior arrangements, contracts, or understandings between the Parties relating to or concerning the subject matter hereof.  No representations, warranties, inducements, or oral agreements have been made by the Parties except as expressly set forth herein.
+ 
+12. Counterparts.  This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which shall constitute the same instrument.  Delivery of an executed counterpart of a signature page to this agreement by facsimile or other electronic means shall be effective as delivery of a mutually-executed counterpart to the Agreement.
+ 
+IN WITNESS WHEREOF, the Parties have executed this Agreement effective as of the Effective Date.
+ 
+Consultant
+ 
+By:   ASHLEY GARNOT
+ 
+Name:   Ashley Garnot
+ 
+Title:   __________________________________
+ 
+Date:_   8/7/2013________________________
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Touchpoint Metrics Proprietary and Confidential
+Rev. 042012
+
+
+ 
+ 	 
+ 
+ 
+
+Page5of 5
+________________________________________
+ 
